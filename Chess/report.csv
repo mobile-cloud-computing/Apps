@@ -1,0 +1,312 @@
+# Summary of Project #
+Lines of Code; Cyclomatic Complexity; Number of Classes
+1593;495;34
+
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/org/gChess/Rook.java;52;2;12
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public ArrayList<Location> getMoveLocations() ;10;32;0
+public ArrayList<Location> getValidMoveLocations() ;2;20;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/symlab/ust/hk/database/DatabaseHandler.java;10;3;7
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public static synchronized DatabaseHandler getInstance();4;5;0
+public void setContext(Context context);1;3;1
+public static DatabaseManager getDatabaseManager();2;2;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/org/gChess/Pawn.java;27;1;9
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public ArrayList<Location> getMoveLocations() ;9;27;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/gChess/R.java;0;0;0
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/org/gChess/Queen.java;49;2;6
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public ArrayList<Location> getMoveLocations() ;4;13;0
+public ArrayList<Location> getValidMoveLocations() ;2;36;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/edu/ut/mobile/network/Pack.java;7;6;12
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public String getfunctionName();2;1;0
+public Class getstateType();2;1;0
+public Object[] getparamValues();2;1;0
+public Class[] getparamTypes();2;1;0
+public Object getstate();2;1;0
+public List<String> getTimeStamps();2;2;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/cs/mc/ut/ee/logic/MiniMaxRemote.java;243;5;50
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public void setChessStatus(int [][] chessBoard);3;4;1
+public int[] getPossibleMove(int x, int y, int[] board);27;156;3
+public float[] minimax(int chess[], int depth, boolean player);2;21;3
+public float[] localminimax(int chess[], int depth, boolean player);16;53;3
+public float[] getSteps(int [][] chessBoard, int depth);2;9;2
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/edu/ut/mobile/network/CloudController.java;45;3;6
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public Vector execute(Method toExecute, Object[] paramValues, Object state, Class stateDataType) ;4;21;4
+public void setResult(Object result, Object cloudModel);1;18;2
+public void run() ;1;6;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/org/gChess/Bishop.java;31;2;6
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public ArrayList<Location> getMoveLocations() ;4;11;0
+public ArrayList<Location> getValidMoveLocations() ;2;20;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/symlab/ust/hk/cache/tree/IntermediateTreeTraversalOrderEnum.java;0;0;0
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/edu/ut/mobile/network/ResultPack.java;7;4;7
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public Object getresult();2;1;0
+public Object getstate();2;1;0
+public void setTimeStamps(List<String> timestamps);1;2;1
+public List<String> getTimeStamps();2;3;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/symlab/ust/hk/cache/tree/IntermediateTreeNode.java;62;17;45
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public IntermediateTreeNode<T> getParent() ;2;1;0
+public List<IntermediateTreeNode<T>> getChildren() ;2;1;0
+public int getNumberOfChildren() ;2;1;0
+public boolean hasChildren() ;2;1;0
+public void setChildren(List<IntermediateTreeNode<T>> children) ;1;4;1
+public void addChild(IntermediateTreeNode<T> child) ;2;6;1
+public void removeChildren() ;4;7;0
+public T getKey();2;1;0
+public Pack getObject();2;1;0
+public ResultPack getResult() ;2;1;0
+public void setKey(T iKey);1;1;1
+public void setObject(Pack iObject);1;1;1
+public void setResult(ResultPack iResult) ;1;1;1
+public String toString() ;2;2;0
+public boolean equals(Object obj) ;13;19;1
+public int hashCode() ;3;4;0
+public String toStringVerbose() ;3;10;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/symlab/ust/hk/cache/tree/IntermediateTree.java;89;16;31
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public IntermediateTreeNode<T> getRoot() ;2;1;0
+public void setRoot(IntermediateTreeNode<T> root) ;1;1;1
+public int getNumberOfNodes() ;2;5;0
+private int auxiliaryGetNumberOfNodes(IntermediateTreeNode<T> node) ;2;5;1
+public boolean exists(T dataToFind) ;2;1;1
+public IntermediateTreeNode<T> find(T dataToFind) ;2;5;1
+private IntermediateTreeNode<T> auxiliaryFind(IntermediateTreeNode<T> currentNode, T dataToFind) ;4;13;2
+public boolean isEmpty() ;2;1;0
+public List<IntermediateTreeNode<T>> build(IntermediateTreeTraversalOrderEnum traversalOrder) ;2;5;1
+public List<IntermediateTreeNode<T>> build(IntermediateTreeNode<T> node, IntermediateTreeTraversalOrderEnum traversalOrder) ;2;8;2
+private void buildPreOrder(IntermediateTreeNode<T> node, List<IntermediateTreeNode<T>> traversalResult) ;1;4;2
+private void buildPostOrder(IntermediateTreeNode<T> node, List<IntermediateTreeNode<T>> traversalResult) ;3;21;2
+private void buildPreOrderWithDepth(IntermediateTreeNode<T> node, Map<IntermediateTreeNode<T>, Integer> traversalResult, int depth) ;1;4;4
+private void buildPostOrderWithDepth(IntermediateTreeNode<T> node, Map<IntermediateTreeNode<T>, Integer> traversalResult, int depth) ;1;4;4
+public String toString() ;2;5;0
+public String toStringWithDepth() ;2;6;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/org/gChess/gChess.java;18;2;2
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public void onReceive(Context arg0, Intent intent) ;1;4;2
+public void onCreate(Bundle savedInstanceState) ;1;14;1
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/org/gChess/ChessBoard.java;202;12;73
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public ChessView getView() ;2;5;0
+public void movePiece(ChessPiece cp, Location loc) ;1;2;2
+public void remove(Location loc) ;2;5;1
+private void initGrid() ;3;8;0
+protected void render(Canvas canvas) ;4;15;1
+public ChessPiece getPieceAt(Location loc) ;4;6;1
+public void putPiece(ChessPiece cp, Location loc) ;3;9;2
+public boolean isOccupied(Location loc) ;2;10;1
+public ArrayList<Location> locsInDirUntilBlocked(Location loc, int direction, int playerColor) ;9;23;3
+public ChessSquare squareAtCoords(int x, int y) ;6;8;2
+private void initPieces() ;3;27;0
+public ArrayList<ChessPiece> getPiecesByColor(int color);34;84;1
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/edu/ut/mobile/network/Cloud.java;0;0;0
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/org/gChess/manager/MyEventContentProvider.java;120;5;33
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public String getType(Uri uri) ;2;3;1
+public Uri insert(Uri uri, ContentValues values) ;5;14;2
+public boolean onCreate() ;8;32;0
+public int delete(Uri uri, String selection, String[] selectionArgs) ;13;61;3
+private void checkColumns(String[] projection) ;5;10;1
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/org/gChess/Location.java;44;10;41
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public int getCol() ;2;1;0
+public int getRow() ;2;1;0
+public void setCol(int col);1;1;1
+public void setRow(int row);2;5;1
+public boolean isValid() ;7;7;0
+public boolean equals(Location other) ;5;5;1
+public boolean includedIn(ArrayList<Location> locs) ;5;6;1
+public Location getLocationInDir(int dir);14;15;1
+public void setDirection(int dir) ;1;1;1
+public String toString() ;2;2;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/symlab/ust/hk/algorithm/MiniMax.java;214;4;48
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public void setChessStatus(int [][] chessBoard);3;4;1
+public int[] getPossibleMove(int x, int y, int[] board);27;156;3
+public float[] minimax(int chess[], int depth, boolean player);16;45;3
+public float[] getSteps(int [][] chessBoard, int depth);2;9;2
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/build/generated/source/buildConfig/debug/org/gChess/BuildConfig.java;0;0;0
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/org/gChess/King.java;6;1;3
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public ArrayList<Location> getMoveLocations() ;3;6;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/org/gChess/ChessView.java;191;9;37
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public boolean onTouchEvent(MotionEvent event);12;52;1
+public void run() ;3;6;0
+public void automaticBlackMove();6;70;0
+public void onDraw(Canvas canvas) ;1;9;1
+private void update() ;2;5;0
+private void initNewGame() ;1;1;0
+public int[] getCpuUsageStatistic() ;4;18;0
+private String executeTop() ;6;24;0
+public void extractDatabaseFile(DatabaseCommons db);2;6;1
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/org/gChess/ChessSquare.java;17;7;12
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public void setOccupant(ChessPiece cp) ;1;1;1
+public ChessPiece getOccupant() ;2;1;0
+public void render(Canvas canvas) ;2;6;1
+public void setSize(int squareLength, int squareHeight, Location loc) ;1;5;3
+public boolean contains(int x, int y) ;2;1;2
+public Location getLocation() ;2;1;0
+public String toString() ;2;2;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/symlab/ust/hk/database/DatabaseManager.java;9;2;2
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public void saveData(String action, double time1, double time2, double attr1, double attr2);1;7;5
+public void setDbUri(Uri cursor);1;2;1
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/symlab/ust/hk/cache/tree/TreeManager.java;5;1;2
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public static IntermediateTree getInstance() ;2;5;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/cs/mc/ut/ee/utilities/Commons.java;0;0;0
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/symlab/ust/hk/database/EventDescriptor.java;7;1;1
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public static void onCreate(SQLiteDatabase database) ;1;7;1
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/org/gChess/Knight.java;19;1;2
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public ArrayList<Location> getMoveLocations() ;2;19;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/symlab/ust/hk/database/DatabaseHelper.java;6;2;2
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public void onCreate(SQLiteDatabase db) ;1;3;1
+public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) ;1;3;3
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/edu/ut/mobile/network/CloudRemotable.java;3;2;3
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public CloudController getCloudController() ;2;1;0
+public void setCloudController(CloudController cloudController) ;1;2;1
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/edu/ut/mobile/network/NetInfo.java;0;0;0
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/edu/ut/mobile/network/NetworkManagerClient.java;62;5;11
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public void setNmf(CloudController callingparent) ;1;1;1
+public boolean connect();4;13;0
+public void send(String functionName, Class[] paramTypes, Object[] funcArgValues, Object state, Class stateDType);1;11;5
+public void send();1;2;0
+public void run() ;4;35;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/symlab/ust/hk/database/DatabaseCommons.java;10;3;7
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public boolean fileToCopy();4;6;0
+public String getDataBasePath();2;1;0
+public void deleteDatabaseFile();1;3;0
+
+Class Name ; Lines Of Code ; Number Of Methods ; Cyclomatic Complexity 
+/home/huberflo/Desktop/PerCom/apps/Chess/app/src/main/java/org/gChess/ChessPiece.java;38;10;25
+
+Method Signature ; Cyclomatic Complexity ; Number of Lines ; Number of Parameters 
+public boolean canMove() ;4;9;0
+public ArrayList<Location> getValidMoveLocations() ;8;14;0
+public void moveTo(Location loc) ;1;7;1
+public Location getLoc() ;2;1;0
+public void setLoc(Location loc) ;1;1;1
+public int getColor() ;2;1;0
+public Drawable getImage() ;2;1;0
+public void loadImage(int resource) ;1;1;1
+public ChessBoard getBoard();2;1;0
+public String getName();2;2;0

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jul 14 15:58:13 EEST 2020
+0.baseType=DIRECTORY
+0.base=/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,4 @@
+#Thu Feb 07 16:16:22 EET 2019
+base.0=/home/huberflo/Desktop/PerCom/apps/Chess/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

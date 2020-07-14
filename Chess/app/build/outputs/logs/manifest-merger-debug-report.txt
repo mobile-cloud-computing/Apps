@@ -1,0 +1,82 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /home/huber/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/a2ab816df7492d8935c5551c8ded942d/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:3:7-27
+		INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml
+		INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:5:7-34
+		INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml
+		INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml
+		INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:6:5-21:19
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /home/huber/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/a2ab816df7492d8935c5551c8ded942d/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /home/huber/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/a2ab816df7492d8935c5551c8ded942d/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:6:48-80
+	android:icon
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:6:18-47
+activity#org.gChess.gChess
+ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:7:9-14:20
+	android:screenOrientation
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:8:16-52
+	android:label
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:9:19-51
+	android:name
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:7:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:12:27-74
+provider#org.gChess.manager.MyEventContentProvider
+ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:16:9-19:17
+	android:authorities
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:18:9-49
+	android:name
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:17:9-55
+uses-permission#android.permission.INTERNET
+ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:23:5-84
+	android:name
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:24:2-93
+	android:name
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:24:19-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:25:2-78
+	android:name
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:25:19-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:26:2-77
+	android:name
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml:26:19-74
+uses-sdk
+INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /home/huber/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/a2ab816df7492d8935c5551c8ded942d/AndroidManifest.xml:7:5-43
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /home/huber/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/a2ab816df7492d8935c5551c8ded942d/AndroidManifest.xml:7:5-43
+INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml
+		ADDED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml
+		INJECTED from /home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/AndroidManifest.xml

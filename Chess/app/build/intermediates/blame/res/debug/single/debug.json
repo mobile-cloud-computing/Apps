@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/drawable_white_rook.png.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/drawable/white_rook.png"
+    },
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/drawable_white_king.png.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/drawable/white_king.png"
+    },
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/drawable_black_knight.png.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/drawable/black_knight.png"
+    },
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/drawable_white_pawn.png.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/drawable/white_pawn.png"
+    },
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/drawable_white_bishop.png.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/drawable/white_bishop.png"
+    },
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/drawable_black_pawn.png.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/drawable/black_pawn.png"
+    },
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/drawable_black_bishop.png.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/drawable/black_bishop.png"
+    },
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/drawable_white_knight.png.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/drawable/white_knight.png"
+    },
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/drawable_black_rook.png.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/drawable/black_rook.png"
+    },
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/drawable_white_queen.png.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/drawable/white_queen.png"
+    },
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/drawable_black_king.png.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/drawable/black_king.png"
+    },
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/drawable_black_queen.png.flat",
+        "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/drawable/black_queen.png"
+    }
+]

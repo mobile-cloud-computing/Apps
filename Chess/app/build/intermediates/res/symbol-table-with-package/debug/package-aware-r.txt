@@ -1,0 +1,18 @@
+org.gChess
+drawable black_bishop
+drawable black_king
+drawable black_knight
+drawable black_pawn
+drawable black_queen
+drawable black_rook
+drawable icon
+drawable white_bishop
+drawable white_king
+drawable white_knight
+drawable white_pawn
+drawable white_queen
+drawable white_rook
+id AbsoluteLayout01
+layout main
+string app_name
+string hello

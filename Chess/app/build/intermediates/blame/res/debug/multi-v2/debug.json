@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/huber/Desktop/DPS_github_code/Apps/Chess/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "109,55",
+                        "endColumns": "43,53",
+                        "endOffsets": "148,104"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,53",
+                        "endOffsets": "94,148"
+                    }
+                }
+            ]
+        }
+    ]
+}

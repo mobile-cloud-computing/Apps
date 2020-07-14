@@ -1,0 +1,4 @@
+#Tue Jul 14 15:58:13 EEST 2020
+base.0=/home/huber/Desktop/DPS_github_code/Apps/Chess/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
